@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Mistras Digital",
+	"description": "Made by an elite team of developers from the Mistras Digital department in the Mistras Group corporation. Their creative digital solutions support energy sector and transportation companies all over the world, including even SpaceX!\nWhile the tag was completed without incident, the blue background of the piece sent the Blue Corner zealots into an uncontrollable blue-berserk frenzy preventing the tag from being repaired up until near the end when another group jumped in and took the space over.",
+	"links": {
+		"website": [
+			"https://www.mistrasgroup.com/how-we-help/data-management/mistras-digital/"
+		]
+	},
+	"path": {
+		"208-250": [
+			[
+				965,
+				255
+			],
+			[
+				991,
+				255
+			],
+			[
+				991,
+				268
+			],
+			[
+				965,
+				268
+			]
+		]
+	},
+	"center": {
+		"208-250": [
+			978,
+			262
+		]
+	}
+}
